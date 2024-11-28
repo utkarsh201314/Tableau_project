@@ -1,10 +1,14 @@
 https://public.tableau.com/app/profile/utkarsh.tiwari6965/vizzes
 
 Tableau Projects by Utkarsh Tiwari
-Welcome to my Tableau projects repository! This repository contains interactive data visualizations created using Tableau to analyze and gain insights from various datasets. Each project explores unique datasets with a focus on storytelling, actionable insights, and impactful visuals.
+
+Welcome to my Tableau projects repository! This repository contains interactive data visualizations created using Tableau to analyze and gain insights from various datasets.
+Each project explores unique datasets with a focus on storytelling, actionable insights, and impactful visuals.
 
 Project Links
+
 Explore my public Tableau profile and interactive dashboards here:
+
 Tableau Public Profile - Utkarsh Tiwari -->  https://public.tableau.com/app/profile/utkarsh.tiwari6965/vizzes
 
 Featured Projects
@@ -16,14 +20,24 @@ Description
 This project explores Airbnb datasets to uncover trends, patterns, and insights related to listings, pricing, and customer satisfaction. The dashboards focus on:
 
 Listings Distribution: Visualizing Airbnb listings across regions.
+
 Pricing Trends: Analyzing pricing patterns by location, property type, and availability.
+
 Occupancy Rates: Understanding high-demand periods.
+
 Guest Ratings: Highlighting factors influencing guest satisfaction.
+
 Key Insights
+
 Identification of top-performing regions with the highest average revenue.
+
 Seasonal trends highlighting peak booking periods.
+
+
 Insights into customer preferences based on guest ratings and reviews.
+
 Recommendations for optimizing pricing strategies.
+
 2. COVID Analysis
 Project File
 Covid Analysis.twbx
