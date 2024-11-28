@@ -92,4 +92,4 @@ This dashboard analyzes product sales and production costs, showcasing insights 
 
 ## 📬 Contact
 For any queries, feedback, or collaboration opportunities, feel free to reach out!
-[**Email**](utkarsh20092001@gmail.com)
+(utkarsh20092001@gmail.com)
